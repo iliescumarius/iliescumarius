@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @iliescumarius
 - 👀 I’m interested in  learning different programming languages
-- 🌱 I’m currently learning  java.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently working with Swift.
 - 📫 How to reach me iliecumarius012@gmail.com
 
 <!---
